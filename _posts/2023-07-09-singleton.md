@@ -27,7 +27,7 @@ tags: ["design-pattern", "디자인패턴", "싱글톤패턴"]
 
 ---
 
-![singleton](../assets/img/posts/singleton.png)
+![singleton](https://biberdw/github.io/assets/img/posts/singleton.png)
 
 클래스다이어그램에서 **-**는 private,  **+**는 public을 의미한다
 
